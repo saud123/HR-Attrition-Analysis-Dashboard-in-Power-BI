@@ -1,6 +1,12 @@
 # 🚀 HR Analytics Power BI Dashboard
-
 This project is a comprehensive **HR Analytics Dashboard built in Power BI**, designed to uncover employee attrition trends and provide actionable insights for HR and executive teams.
+
+
+![Dashboard Screenshot](HR.PNG)
+
+
+
+
 
 ## 📌 Project Overview
 
@@ -27,7 +33,7 @@ The goal of this project is to analyze HR data and identify key drivers of emplo
 4. **Gender Disparities** in attrition and average salaries
 5. **Tenure Variability**: Attrition fluctuates across different years-in-role
 6. **Education-Linked Attrition**: Life Sciences and Medical dominate attrition count
-
+7. **First-year attrition**: 30% (71 out of 234), with 48 males and 23 females leaving.
 ---
 
 ## ✅ Recommendations
@@ -37,6 +43,7 @@ The goal of this project is to analyze HR data and identify key drivers of emplo
 - Review and benchmark **compensation and benefits**
 - Develop **role-specific retention strategies**
 - Investigate **gender-specific attrition drivers**
+- Improve **onboarding and early engagement**, focusing on support for new hires to reduce first-year turnover.
 
 ---
 
@@ -70,9 +77,16 @@ This dashboard can be adapted for:
 
 ## 📸 Preview
 
-![Dashboard Screenshot](HR.PNG)
+![Dashboard Screenshot](ezgif.com-webp-maker.webp)
 
 ---
+
+
+
+## Tools & Skills:
+Power BI | DAX | Power Query | Data Visualization | HR Analytics | Data Cleaning | Dashboard Design | Storytelling with Data
+
+
 
 ## 🤝 License
 
