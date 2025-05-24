@@ -70,7 +70,7 @@ This dashboard can be adapted for:
 
 ## 📸 Preview
 
-![Dashboard Screenshot](./Images/dashboard_preview.png)
+![Dashboard Screenshot](HR.PNG)
 
 ---
 
