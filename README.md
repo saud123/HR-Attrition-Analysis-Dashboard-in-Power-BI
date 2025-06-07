@@ -17,7 +17,7 @@ The goal of this project is to analyze HR data and identify key drivers of emplo
 ## 📊 Features
 
 - **Interactive KPIs**: Attrition Rate, Average Salary, Employee Count
-- **Drillable Visuals**: Attrition by Age, Department, Gender, Education, Tenure, Salary Band, and Job Role
+- **Appealing Visuals**: Attrition by Age, Department, Gender, Education, Tenure, Salary Band, and Job Role
 - **Dynamic Slicers** for real-time data exploration
 - **Custom Measures using DAX**
 - **Data Cleaning & Transformation** using Power Query
