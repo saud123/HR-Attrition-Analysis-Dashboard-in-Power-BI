@@ -49,7 +49,7 @@ The report is built on a **3-Page Storytelling Model** to cater to both Executiv
 
 ## 📂 Repository Contents
 
-* `HR_Analytics.pbix`: The complete, interactive Power BI report file.
+* `Hr.pbix`: The complete, interactive Power BI report file.
 * `README.md`: This project description.
 
 ***
