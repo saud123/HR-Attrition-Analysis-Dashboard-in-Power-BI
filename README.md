@@ -2,7 +2,7 @@
 This project is a comprehensive **HR Analytics Dashboard built in Power BI**, designed to uncover employee attrition trends and provide actionable insights for HR and executive teams.
 
 
-![Dashboard Screensho](https://github.com/saud123/HR-Attrition-Analysis-Dashboard-in-Power-BI/blob/main/Exectuive%20Summary.PNG)
+![Dashboard Screensho](https://github.com/saud123/HR-Attrition-Analysis-Dashboard-in-Power-BI/blob/main/Executive%20Summary.PNG?raw=true)
 
 
 
